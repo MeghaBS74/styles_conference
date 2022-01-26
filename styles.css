@@ -1,0 +1,169 @@
+body{
+  margin : 0;
+
+}
+
+
+.header1{
+  background-color: #7C99AC;
+  padding-left: 250px;
+  padding-right: 300px;
+  padding-top: 80px;
+  padding-bottom: 60px;
+  font-weight: 100;
+}
+
+h1{
+  color: white;
+  display: inline;
+  font-style: sans-serif;
+  font-weight: 100;
+  font-size: 48px;
+
+}
+
+h2{
+   padding-left: 200px;
+   margin: 50px auto 0 auto;
+}
+
+h3{
+  margin-top: 10px;
+  text-align: right;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  padding-left: 20px;
+  text-transform: uppercase;
+}
+
+.intro{
+  font-size: 20px;
+  font-weight: 100;
+  color: white;
+  margin-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: center;
+  line-height: 1.5;
+
+}
+
+img{
+  border-radius:10px;
+  padding-right: 30px;
+  padding-bottom : 20px;
+  height: 200px;
+  width: 233.6px;
+
+}
+
+h4{
+  color:#92A9BD;
+  text-transform: uppercase;
+
+}
+
+
+
+.link-class{
+  display: block;
+  color: #92A9BD;
+  padding-left: 0;
+}
+
+.image-para{
+  color: #92A9BD;
+
+}
+
+.menu{
+  position: absolute;
+  top:80px;
+  right: 300px;
+  line-height: 40px;
+}
+
+.section1{
+
+  text-align: center;
+  padding-top: 40px;
+
+
+}
+
+.register-button{
+  color:white;
+  padding: 20px;
+  border-radius: 10%;
+  border : solid white;
+  position: relative;
+  left:45%;
+}
+
+.image-section{
+
+  padding-left: 250px;
+    padding-right: 300px;
+    padding-bottom: 30px;
+}
+
+.image1-section{
+  display: inline-block;
+  margin-top: 100px;
+
+}
+
+.image2-section{
+  display: inline-block;
+
+}
+  /*
+  position: relative;
+  left: 300px;
+  bottom: 518px;
+}
+*/
+.image3-section{
+  display: inline-block;
+
+  /*
+  position: relative;
+  left : 600px;
+  bottom : 1035px;*/
+}
+
+.image-para{
+
+
+  height: 200px;
+  width : 200px;
+  text-align: justify;
+
+}
+
+
+
+.footer{
+  background-color:  #7C99AC;
+  margin-top: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 250px;
+  padding-right: 300px;
+  font-weight: lighter;
+}
+
+.fp{
+  display: inline-block;
+
+}
+
+.fa{
+  display: inline-block;
+  margin-top: 16px;
+  position: absolute;
+  right: 300px;
+}
